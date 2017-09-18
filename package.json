@@ -11,11 +11,13 @@
   "dependencies": {
     "debug": "2.3.3",
     "httpntlm": "1.7.3",
+    "httpreq": "0.4.24",
     "lodash": "4.17.2",
     "request": "2.79.0",
     "soap": "0.19.2",
     "tmp": "0.0.28",
-    "when": "3.7.7"
+    "when": "3.7.7",
+    "async": "2.5.0"
   },
   "repository": {
     "type": "git",
